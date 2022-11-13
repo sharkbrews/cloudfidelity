@@ -8,7 +8,6 @@ const Nav = () => {
     <div className='nav'>
         <div className="logo">
             <img src={logo} alt="logo" />
-            <p>Logo</p>
         </div>
 
         <ul className='navEle'>
